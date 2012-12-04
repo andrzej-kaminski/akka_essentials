@@ -1,4 +1,5 @@
 package com.essentials.mapreduce
 
-class TestObject {
+object TestObject extends App {
+  println("ok")
 }

@@ -1,7 +1,5 @@
-*~
 target/
 *.log
-*.iml
 /\.target/
 /\.cache
 /\.project
